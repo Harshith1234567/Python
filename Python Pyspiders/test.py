@@ -1,0 +1,20 @@
+a="welcome to python"
+print(a[3:7])
+print(a[-14:-10])
+print(a[-14:7])
+print(a[3:-10])
+
+print(a[8:10])
+print(a[-9:-7])
+print(a[-9:10])
+print(a[8:-7])
+print(a[13:16:2])
+print(a[-4:-1:2])
+print(a[13:-1:2])
+print(a[-4:16:2])
+print(a[-4:-9:-4])
+
+print(a[11:13])
+print(a[-6:-4])
+print(a[-6:13])
+print(a[11:-4])
